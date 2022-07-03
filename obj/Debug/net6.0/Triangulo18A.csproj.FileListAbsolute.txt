@@ -1,0 +1,15 @@
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18A\bin\Debug\net6.0\Triangulo18A.exe
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18A\bin\Debug\net6.0\Triangulo18A.deps.json
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18A\bin\Debug\net6.0\Triangulo18A.runtimeconfig.json
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18A\bin\Debug\net6.0\Triangulo18A.dll
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18A\bin\Debug\net6.0\ref\Triangulo18A.dll
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18A\bin\Debug\net6.0\Triangulo18A.pdb
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18A\obj\Debug\net6.0\Triangulo18A.csproj.AssemblyReference.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18A\obj\Debug\net6.0\Triangulo18A.GeneratedMSBuildEditorConfig.editorconfig
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18A\obj\Debug\net6.0\Triangulo18A.AssemblyInfoInputs.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18A\obj\Debug\net6.0\Triangulo18A.AssemblyInfo.cs
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18A\obj\Debug\net6.0\Triangulo18A.csproj.CoreCompileInputs.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18A\obj\Debug\net6.0\Triangulo18A.dll
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18A\obj\Debug\net6.0\ref\Triangulo18A.dll
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18A\obj\Debug\net6.0\Triangulo18A.pdb
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18A\obj\Debug\net6.0\Triangulo18A.genruntimeconfig.cache
